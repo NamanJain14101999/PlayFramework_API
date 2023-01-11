@@ -1,0 +1,11 @@
+target
+/.bsp
+/.idea
+/logs
+/RUNNING_PID
+/tmp
+/dist
+/*.cache
+logs
+project/project
+project/target
